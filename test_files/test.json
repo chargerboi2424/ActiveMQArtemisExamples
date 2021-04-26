@@ -1,0 +1,14 @@
+{
+    "1": {
+        "Id": 12345,
+        "Customer": "John Smith",
+        "Quantity": 1,
+        "Price": 10.00
+    },
+    "2": {
+        "Id": 67890,
+        "Customer": "Jane Smith",
+        "Quantity": 2,
+        "Price": 20.00
+    }
+}
